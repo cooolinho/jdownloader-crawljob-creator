@@ -1,1 +1,1 @@
-# jdownload-crawljob-creator
+# jdownloader-crawljob-creator
